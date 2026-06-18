@@ -29,11 +29,11 @@ Last but not least, place the top part on top. <p>
 # Wiring Diagram
 <img width="5000" height="3284" alt="IMG_2229" src="https://github.com/user-attachments/assets/3c8e4c30-c30f-48d5-8479-b75d4563de7c" />
 
-Just follow the diagram.
-Use a green jumper wire to connect IO12 on the Burner Base -> Connects to Green (NO) on the button
-Use a green jumper wire to connect GND on the Burner Base -> Connects to the other Green (NO) on the button
-Use a red jumper wire to connect 3V3 on the Burner Base -> Connects to Red (+) on the button
-Use a black jumper wire to connect GND on the Burner Base -> Connects to Black (-) on the button
+Just follow the diagram. <p>
+Use a green jumper wire to connect IO12 on the Burner Base -> Connects to Green (NO) on the button <p>
+Use a green jumper wire to connect GND on the Burner Base -> Connects to the other Green (NO) on the button <p>
+Use a red jumper wire to connect 3V3 on the Burner Base -> Connects to Red (+) on the button <p>
+Use a black jumper wire to connect GND on the Burner Base -> Connects to Black (-) on the button <p>
 
 
 ## How can you use it?
