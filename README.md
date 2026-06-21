@@ -63,4 +63,4 @@ I decided to make this because I want to keep my home safe; I don't want random 
 I used Fusion 360 to make the snap-fit case, Arduino IDE for the coding part and last but not least, the parts from the BOM.
 
 # Fallout Zine 
-<img width="1410" height="2000" alt="SignalEye Fallout Zine" src="https://github.com/user-attachments/assets/8c03e97e-eadd-41dd-a372-b9c5b8befb9a" />
+<img width="4405" height="6250" alt="SignalEye Fallout Zine" src="https://github.com/user-attachments/assets/80f2ab37-8cd0-4bc9-942c-08b5bf5e2c7b" />
