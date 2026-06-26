@@ -4,7 +4,7 @@
 Imagine living in a flat with a security guard downstairs, but a thief can still come to your flat, steal your stuff and run away (This is not my situation, just an imagination only; it's fake). To prevent this kind of thing from happening, you MUST have SignalEye, your home guardian; it lets you check who is outside your door.    
 
 ## What's it for?
-It's for home safety. It prevents burglary from happening. With a Smart Doorbell, you can know who came to your home.
+It's for home safety. It prevents burglary from happening. With a Smart Doorbell, you can know who comes to your home.
 
 ## How to build it?
 Please print all the 3D parts. <p>
@@ -27,14 +27,15 @@ Last but not least, place the top part on top. <p>
 <img width="595" height="490" alt="螢幕截圖 2026-06-18 下午4 15 33" src="https://github.com/user-attachments/assets/59b64ae4-e2c1-4740-885c-0aadeeb0c421" />
 
 # Wiring Diagram
-<img width="5000" height="3284" alt="IMG_2229" src="https://github.com/user-attachments/assets/3c8e4c30-c30f-48d5-8479-b75d4563de7c" />
+<img width="5000" height="4362" alt="SignalEye Wiring Diagram" src="https://github.com/user-attachments/assets/346a5919-8669-4811-9ba6-0cd08a33696c" />
 
 Just follow the diagram. <p>
 Use a green jumper wire to connect IO12 on the Burner Base -> Connects to Green (NO) on the button <p>
 Use a green jumper wire to connect GND on the Burner Base -> Connects to the other Green (NO) on the button <p>
 Use a red jumper wire to connect 3V3 on the Burner Base -> Connects to Red (+) on the button <p>
 Use a black jumper wire to connect GND on the Burner Base -> Connects to Black (-) on the button <p>
-
+And for the power supply, connect the USB-C part of the wire to the ESP32-CAM-MB, connect the USB-A part of the wire to the 18650 lithium battery expansion board, which has one 18650 lithium battery inside. <p>
+If you need another 18650 lithium battery, you must charge it with a charger and connect it like that. <p>
 
 ## How can you use it?
 1. Install Arduino IDE:
