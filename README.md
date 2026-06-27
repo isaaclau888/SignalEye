@@ -1,3 +1,4 @@
+
 # SignalEye
 <img width="1920" height="1080" alt="SignalEye_2026-Jun-18_06-48-48AM-000_CustomizedView6057489903_png" src="https://github.com/user-attachments/assets/ee77af41-579e-4660-9235-ea6afca9f135" />
 
@@ -79,4 +80,5 @@ I decided to make this because I want to keep my home safe; I don't want random 
 I used Fusion 360 to make the snap-fit case, Arduino IDE for the coding part and last but not least, the parts from the BOM.
 
 # Fallout Zine 
-<img width="4405" height="6250" alt="SignalEye Fallout Zine" src="https://github.com/user-attachments/assets/80f2ab37-8cd0-4bc9-942c-08b5bf5e2c7b" />
+<img width="1410" height="2001" alt="IMG_2239" src="https://github.com/user-attachments/assets/9eb00c9e-58e3-4f96-9de4-76cdf1e0709e" />
+
